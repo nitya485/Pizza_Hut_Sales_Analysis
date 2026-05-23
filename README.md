@@ -1,0 +1,1 @@
+The aim of this project is to analyze Pizza Hut sales performance, customer ordering behavior, and revenue trends. By working with real-world styled datasets, this project demonstrates how SQL can be used for data cleaning, querying, and business analysis.
